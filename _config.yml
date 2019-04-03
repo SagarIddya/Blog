@@ -1,0 +1,9 @@
+# basic options, this is a comment and will be ignored
+title: Extensible Framework
+author: Sagar Iddyadinesh
+email: sagar.iddyadinesh@greensboro-nc.gov
+description: My first blog on Infor EAM Extensible Framework
+
+# Build settings
+markdown: kramdown
+theme: minima
